@@ -8,9 +8,7 @@
 
 5)https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H
 
-#Remaining to be done
-
-6)https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Cz
+6)https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C
 
 7)https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
 
@@ -24,6 +22,9 @@
 
 12)https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/D
 
+
+#Remaining to be done
+
 13)https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E
 
 14)https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X
@@ -32,10 +33,10 @@
 
 16)https://codeforces.com/problemset/problem/71/A
 
-https://codeforces.com/problemset/problem/50/A
+17)https://codeforces.com/problemset/problem/50/A
 
-https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X
+18)https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X
 
-https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T
+19)https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T
 
-https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z
+20)https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z
