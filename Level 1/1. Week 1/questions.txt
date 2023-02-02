@@ -22,9 +22,6 @@
 
 12)https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/D
 
-
-#Remaining to be done
-
 13)https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E
 
 14)https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X
@@ -40,3 +37,7 @@
 19)https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T
 
 20)https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z
+
+
+
+
