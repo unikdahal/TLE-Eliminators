@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/home/unik/Desktop/CP/TLE-Eliminators/Level 1/a.cpp","tests":[{"id":1675601751514,"input":"5\n9\n6\n17\n8\n1000000","output":"4 5\n1 5\n10 7\n3 5\n500202 499798"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/unik/Desktop/CP/TLE-Eliminators/Level 1/a.cpp","group":"local","local":true}
